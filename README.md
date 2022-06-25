@@ -1,4 +1,4 @@
-# CSS---Modern-Button-Hover-Effect-Gradient-Button-Border
+# CSS Modern Button Hover Effect Gradient Button Border
 In this code lap you are going to learn how to create a modern button with gradient and custom shape border and with a cool button hover animation/effect with the help of pure css and html.  
 
 
